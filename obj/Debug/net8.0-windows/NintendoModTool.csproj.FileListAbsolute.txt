@@ -1,0 +1,16 @@
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.csproj.GenerateResource.cache
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.AssemblyInfoInputs.cache
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.AssemblyInfo.cs
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.csproj.CoreCompileInputs.cache
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\bin\Debug\net8.0-windows\NintendoModTool.exe
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\bin\Debug\net8.0-windows\NintendoModTool.deps.json
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\bin\Debug\net8.0-windows\NintendoModTool.runtimeconfig.json
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\bin\Debug\net8.0-windows\NintendoModTool.dll
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\bin\Debug\net8.0-windows\NintendoModTool.pdb
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.Form1.resources
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.dll
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\refint\NintendoModTool.dll
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.pdb
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\NintendoModTool.genruntimeconfig.cache
+F:\Mateo\NTMT\NintendoModTool\NintendoModTool\obj\Debug\net8.0-windows\ref\NintendoModTool.dll
